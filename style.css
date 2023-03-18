@@ -1,0 +1,7 @@
+#container_app{
+	border: 1px solid black;
+	width: 300px;
+	margin: auto;
+	margin-top: 10%;
+	text-align: center;
+}
